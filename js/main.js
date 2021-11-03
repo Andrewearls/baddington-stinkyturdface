@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Stinky.", "Smelly.", "A Turd Face.", "Austin Earls."],
+      strings: ["Stinky.", "Smelly.", "A Turd Face.", "Ben Crawly."],
       typeSpeed: 100,
       loop: true,
     });
